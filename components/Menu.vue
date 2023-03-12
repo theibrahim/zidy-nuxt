@@ -135,6 +135,8 @@
 
         <div class="sm:mx-4 items-center mt-[120px]  ">
           <hr>
+         
+                                                                                    
           <div>
             <NuxtLink to="/"> <button @click="heading = fase"
                 class="text-lg  font-semibold text-gray-600 hover:text-teal-500  my-3 mx-6">Home</button>
