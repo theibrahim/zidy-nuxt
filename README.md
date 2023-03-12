@@ -47,3 +47,4 @@ Check out the [deployment documentation](https://nuxt.com/docs/getting-started/d
 "# zidy" 
 # zidy-nuxt
 # zidy-nuxt
+# zidy-nuxt
